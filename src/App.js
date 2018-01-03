@@ -7,7 +7,9 @@ const App = () => (
     <View>
         <Header title='isfaaghyth'/>
         <ImageCard />
+        <ImageCard />
+        <ImageCard />
     </View>
 );
 
-AppRegistry.registerComponent('fbcircle', ()=>App);
+AppRegistry.registerComponent('fbcircle', ()=> App);
